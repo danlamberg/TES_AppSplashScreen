@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AppSplashScreen</string>
     <color name="colorPrimary">#FFFFFF</color>
-        <string name="welcome_message">Bem-vindo ao AppSplashScreen</string>
+    <string name="welcome_message">Bem-vindo ao AppSplashScreen</string>
 </resources>
