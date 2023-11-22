@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppSplashScreen</string>
+    <color name="colorPrimary">#FFFFFF</color>
+</resources>
